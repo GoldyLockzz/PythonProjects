@@ -1,6 +1,6 @@
 # A bunch of EDA projects I do for fun. No corporate fluff. Just data and vibes.
 
-## ✅ Live Preview (Recommended)
+## Live Preview (Recommended)
 Use these links — they open the HTML properly:
 1) <b><a href="https://goldylockzz.github.io/PythonProjects/Exploratory%20Data%20Analysis/FoodHub%20Exploratory%20Data%20Analysis.html" target="_blank" rel="noopener noreferrer">
    FoodHub EDA
