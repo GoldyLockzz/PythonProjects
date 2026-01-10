@@ -3,7 +3,9 @@
 ## ✅ Live Preview (Recommended)
 Use these links — they open the HTML properly:
 1) FoodHub EDA  
-https://goldylockzz.github.io/PythonProjects/Exploratory%20Data%20Analysis/FoodHub%20Exploratory%20Data%20Analysis.html
+<a href="https://goldylockzz.github.io/PythonProjects/Exploratory%20Data%20Analysis/FoodHub%20Exploratory%20Data%20Analysis.html" target="_blank" rel="noopener noreferrer">
+   FoodHub EDA
+   </a>
 
 2) [Coming soon]
 
