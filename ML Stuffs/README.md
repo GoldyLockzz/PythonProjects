@@ -2,7 +2,7 @@
 Machine learning projects I do for fun + skill-building.
 No fluff. Just models, metrics, and me trying not to overfit like an idiot.
 
-## ✅ Where the real ML stuff lives
+## Where the real ML stuff lives
 I host the full ML write-ups + project breakdowns on my portfolio site (because GitHub preview can be a pain in the ass):
 
 - 🚀 <a href="https://hanselpw.wixsite.com/hanselpw/blog" target="_blank" rel="noopener noreferrer">
