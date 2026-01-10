@@ -1,20 +1,22 @@
-# FoodHub Exploratory Data Analysis (EDA)
-
-This project contains exploratory data analysis for the FoodHub dataset.
+# A bunch of EDA projects I do for fun. No corporate fluff. Just data and vibes.
 
 ## ✅ Live Preview (Recommended)
-You can view the analysis directly here (GitHub Pages):
-- https://goldylockzz.github.io/PythonProjects/Exploratory%20Data%20Analysis/FoodHub%20Exploratory%20Data%20Analysis.html
+Use these links — they open the HTML properly:
+1) FoodHub EDA  
+https://goldylockzz.github.io/PythonProjects/Exploratory%20Data%20Analysis/FoodHub%20Exploratory%20Data%20Analysis.html
+
+2) [Coming soon]
+
+3) [Coming soon] 
 
 ## Notes
-GitHub cannot preview this HTML file in the repository because it is large (~MBs).  
-Please use the live preview link above.
+GitHub repo preview is kinda useless for big HTML files.  
+If you click the HTML here, GitHub might say “file too big” and act like it’s broken.
+It’s not broken. GitHub just can’t handle it
 
 ## Alternative: Download and Open Locally
 If the live preview doesn’t work for you:
-1. Download the HTML file:
-   - `FoodHub Exploratory Data Analysis.html`
-2. Open it in your browser:
-   - Chrome / Edge / Firefox
+1. Download the HTML file
+2. Open it in your browser
 
 Tip: If charts don’t appear, make sure to download any accompanying folders/assets in the same directory (if applicable).
